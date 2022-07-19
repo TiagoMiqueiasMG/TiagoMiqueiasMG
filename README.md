@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Front-end: HTML, CSS, Javascript and Three.js
 - 🌱 I’m currently learning Back-end: SQL.
-- 😁 Contact me: tiagomiqueiasrodrigues@gmail.com
+- 😁 Contact me: tiagomiqueiasrodrigues@gmail.com / 31991374832
 
 <div align="center">
   <a href="https://github.com/"TiagoMiqueiasMG">
