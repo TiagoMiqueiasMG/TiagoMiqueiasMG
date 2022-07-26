@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Front-end: HTML, CSS, Javascript and Three.js
-- 🌱 I’m currently learning Back-end: SQL.
+- 🌱 I’m currently working on Front-end: HTML, CSS, Javascript and Three.js.
+- 🌱 I’m currently learning Back-end: C# and SQL.
 - 😁 Contact me: tiagomiqueiasrodrigues@gmail.com / 31991374832
 
 <div align="center">
